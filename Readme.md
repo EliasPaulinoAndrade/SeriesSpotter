@@ -49,6 +49,7 @@ For unit testing, I used the XCTest framework. I needed to implement some assert
 3. The user can list all episodes of a series.
 4. The user can view information about a specific episode.
 5. The user can mark a specific series as a favorite from the detail screen.
+6. The user can also search by a specific series using a keyword
 
 ## Next Steps
 
