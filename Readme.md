@@ -58,3 +58,7 @@ For unit testing, I used the XCTest framework. I needed to implement some assert
 
 1. Have Xcode 15.3 installed.
 2. Run the app normally; it has no third-party frameworks.
+
+![Screenshot 2024-04-14 at 11 13 31](https://github.com/EliasPaulinoAndrade/SeriesSpotter/assets/15729408/955642fa-ff13-4ac6-82b3-a08a31bb270e)
+
+
